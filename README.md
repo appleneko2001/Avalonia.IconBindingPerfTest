@@ -15,7 +15,7 @@ Processor: AMD Ryzen 3 1200 Quad-Core<br/>
 RAM: Patrick Viper 2x4GB 2666MHz<br/>
 Graphics card: nVIDIA GeForce GTX 1050 Ti 4GB<br/>
 ### Results (lower is better):
-![](/pics/results.png)
+![](/Avalonia.PackIconPerfTest/pics/results.png)
 
 As you can see converter are much faster when a few changes happen, and binding without converter will faster when changes are too much, especially 10000 times changes. But in real cases, a lot changes that higher than 100 is almost impossible, it's too EXTREMELY RARE TO HAPPEN, so binding with converter are better in this test.
 
