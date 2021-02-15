@@ -1,0 +1,9 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Avalonia.PackIconPerfTest.App">
+    <Application.Styles>
+        <StyleInclude Source="/PackIconStyle.axaml"/>
+        <StyleInclude Source="avares://Material.Icons.Avalonia/MaterialIcon.xaml" />
+        <FluentTheme Mode="Light"/>
+    </Application.Styles> 
+</Application>

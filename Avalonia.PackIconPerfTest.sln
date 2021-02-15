@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia.PackIconPerfTest", "Avalonia.PackIconPerfTest\Avalonia.PackIconPerfTest.csproj", "{581A67BA-99D8-4C45-A10A-CEFC76085E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581A67BA-99D8-4C45-A10A-CEFC76085E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581A67BA-99D8-4C45-A10A-CEFC76085E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581A67BA-99D8-4C45-A10A-CEFC76085E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581A67BA-99D8-4C45-A10A-CEFC76085E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
