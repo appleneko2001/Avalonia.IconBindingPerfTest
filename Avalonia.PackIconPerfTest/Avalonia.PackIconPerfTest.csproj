@@ -10,4 +10,7 @@
         <PackageReference Include="Avalonia.Diagnostics" Version="0.10.0" />
         <PackageReference Include="Material.Icons.Avalonia" Version="1.0.0" />
     </ItemGroup>
+    <ItemGroup>
+      <Folder Include="pics" />
+    </ItemGroup>
 </Project>
